@@ -1,0 +1,1 @@
+Put your certificate JPG/PNG files in this folder and update index.html to display them.
